@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--css style sheet-->
+    <link rel="stylesheet" href="./style.css"/>
+    <!--fontawesome icons-->
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!--Google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+    <!--script-->
+    <script defer src="./src/index.js"></script>
+    <title>Flatiron Movie Theater</title>
+</head>
+<body>
+    <header>
+        <!--Navigation bar with bootstrap-->
+        <div class="topnav">
+            <div class="brand">
+                <a class="navbarBrand" href="#" style="color: purple; font-family: 'Gill Sans'; font-size: 50px; font-weight: 900;">BugScout&#8482;</a>
+            </div>
+            <ul class="navbar" style="font-size: 16px;font-weight: 600">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Documentation</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#"><i class="fa fa-user" aria-hidden="true"></i> Sign Up</a></li>
+                <li><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i> Login</a></li>
+            </ul>
+        </div> 
+    </header>
+
+    <div class="row">        
+        <div class="column left">
+            <i class="fa-solid fa-seedling" style="font-style: normal;font-size:30px;color:rgb(8, 8, 8);" id="plants"> Plants</i>
+            <!--Search bar left-->
+            <br><br>
+            <form role="search" id="form">
+                <button>
+                <input type="search" id="query" name="q" placeholder="Search..." style="font-size: 16px;";>
+                <button>
+                    <i class="fa fa-search" style="font-size: 18px; padding: 5px 5px;"></i>
+                </button>
+            </form>            
+            <ul class="plantsMenu">
+
+                <!--list of all plants-->
+
+            </ul>    
+        </div>
+
+        <div class="column midLeft">
+            <h2 style="background-color: green;text-align:center; font-size: 32px">Healthy Plant</h2>
+            <div class="healthyDisplay">
+                <!--Display healthy plant card-->
+            </div>
+        </div>
+
+        <div class="column midRight">
+            <h2 style="background-color:purple;text-align:center; font-size: 32px;">Diseased Plant</h2>
+            <div class="diseasedDisplay">
+                <!--Display diseased plant card-->
+            </div>
+        </div>
+
+        <div class="column right">
+            <i class="fa-solid fa-disease" style="font-style: normal; font-size:30px;color:rgb(6, 6, 5);" id="plants"> Diseases</i>
+            <ul class="diseaseMenu">
+                <!--list of all diseases associated to a plant-->
+            </ul>    
+        </div>    
+    </div>
+</body>
+</html>
+
+    
+        <!--
+             <div  class="navbarLeft">
+                <h2>Menu</h2>
+                <a class="active" href="#"><i class="fa fa-fw fa-home" style="font-size: 32px; color:red;"></i> Home</a>
+                <a href="#"><i class="fa fa-caret-square-o-right" style="font-size: 32px; color:red;" id="playlist"></i> Playlist Menu</a> 
+                <ul id="menu">
+
+                    Menu of all Movies
+
+                </ul>
+                <a href="#"><i class="fa fa-fw fa-envelope" style="font-size: 32px;color:red;"></i> Contact</a> 
+                <a href="#"><i class="fa fa-qrcode" style="font-size: 32px;color:red;"></i> About Us</a> 
+            </div> 
+        
+        <div class="column middle" style="background-color:#132255;">
+            <h2>Movie Details</h2>
+            /** Nav bar 2
+            <nav class="navbar">
+                <ul id="topNavbar">
+                    <li class="active nav"><a href="#" id="tvSeries">TV Series</a></li>
+                    <li class="nav"><a href="#" id="movies">Movies</a></li>
+                    <li class="nav"><a href="#" id="animations">Animations</a></li>
+                    <li class="nav"><a href="#" id="nowBooking">Now Booking</a></li>
+                    <li class="nav"><a href="#" id="showingSoon">Showing Soon</a></li>
+                    <li class="nav"><a href="#" id="prices">Prices</a></li>
+                </ul>
+            </nav>
+            <div class="display">
+
+                /** Show first movie's details on clicking menu
+
+                </div>
+        </div>
+        
+        <div class="column right" style="background-color:#243252;">
+            <div class="navbarRight">
+                /** Search bar 3
+                <form role="search" id="form">
+                    <br><br>
+                    <button>
+                    <input type="search" id="query" name="q" placeholder="Search..." style="font-size:18px;";>
+                    <button>
+                        <i class="fa fa-search" style="font-size: 18px; padding: 5px 5px;"></i>
+                    </button>
+                </form>
+                <div class="ticketSales">
+                    /** Ticket sales
+                </div>
+            </div>    
+        </div>
+    </div>
+</body>
+</html>
+-->

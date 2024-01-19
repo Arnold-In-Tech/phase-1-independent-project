@@ -1,0 +1,446 @@
+{
+    "diseases": [
+        {
+            "id": 69,
+            "common_name": "Fusarium wilt (yellows)",
+            "scientific_name": "Fusarium  oxysporum",
+            "other_name": [
+                "Yellows (Fusarium wilt)"
+            ],
+            "family": null,
+            "description": [],
+            "solution": [],
+            "host": [
+                "cabbage"
+            ],
+            "images": [
+                {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/og/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+                    "regular_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/regular/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+                    "medium_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/medium/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+                    "small_url": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/small/2560px-Elbwiesen_-_Winterkohl_28229.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_disease/69_fusarium__oxysporum/thumbnail/2560px-Elbwiesen_-_Winterkohl_28229.jpg"
+                }
+            ]
+        },
+    {
+      "id": 21,
+      "common_name": "Apple mosaic",
+      "scientific_name": "Ilarvirus",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": " What is Apple Mosaic (Ilarvirus)?",
+          "description": "Apple mosaic is a plant disease caused by multiple viruses, including Apple mosaic virus (ApMV) and Tulare apple mosaic virus (TAMV), which are primarily transmitted by aphids. Infected apple varieties develop pale yellow or white spots that turn brown, creating mosaic patterns on leaves, which may drop prematurely. This disease is widespread in apple-growing regions globally, with severe symptoms commonly observed in Golden Delicious, Granny Smith, and Jonathan apple varieties."
+        },
+        {
+          "subtitle": "How does Apple Mosaic (Ilarvirus) occur?",
+          "description": "Aphids are the primary transmission method for some viruses, such as Apple mosaic virus (ApMV), the primary transmission routes for other apple mosaic viruses can indeed include root grafting and infected propagation equipment. These viruses reproduce by entering host plant cells, replicating their RNA genome, and assembling new virus particles. They then spread within the plant through cell-to-cell movement and systemic spread, resulting in the characteristic symptoms of apple mosaic disease. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Prevention and Control Measures",
+          "description": "•\tUse virus-free plants obtained from reputable suppliers.\n•\tPractice good sanitation by disinfecting tools and equipment.\n•\tRemove and destroy infected trees to prevent further spread.\n•\tImplement pest control measures to manage insect vectors.\n•\tMonitor orchards regularly for early detection and prompt removal of infected trees.\n•\tAvoid planting apple trees in areas where infected trees were previously present.\n"
+        },
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tPractice crop rotation to reduce the risk of reinfection.\n•\tImplement proper pruning techniques to promote tree health.\n•\tEnsure proper irrigation and nutrition to maintain tree vigor.\n•\tCreate proper spacing between trees to improve airflow and reduce disease pressure.\n"
+        },
+        {
+          "subtitle": "Genetic Resistance and Rootstock Selection",
+          "description": "•\tSelect apple varieties that are less sensitive to apple mosaic viruses.\n•\tUse resistant rootstocks that provide tolerance or resistance to viruses.\n•\tConsult with experts or extension services for information on virus-resistant varieties and rootstocks.\n•\tConsider genetic testing or screening of planting material for virus-free status.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "Crabapple"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/21_ilarvirus/og/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/21_ilarvirus/regular/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/21_ilarvirus/medium/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/21_ilarvirus/small/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/21_ilarvirus/thumbnail/PanaC5A1ovC3A1nC3AD_listu_jablonC49B.jpg"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "common_name": "Powdery mildew",
+      "scientific_name": "Podosphaera leucotricha",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Powdery Mildew (Podosphaera leucotricha)?",
+          "description": "Powdery mildew (Podosphaera leucotricha) is a fungal disease that affects a variety of plants, such as apples, almonds, pears, quince, peach, and photinia. It is found worldwide in apple production regions. This disease can impact leaves, buds, shoots, blossoms, and fruit. Typical symptoms include whitish patches on the lower leaf surface, yellow spots on the upper surface, and a powdery appearance due to white spores. Leaves may exhibit curling and dropping, while buds become more vulnerable to winter damage. Infected fruit may develop a netlike russeting. "
+        },
+        {
+          "subtitle": "How does Powdery Mildew (Podosphaera leucotricha) occur?",
+          "description": "Powdery mildew reproduces through a combination of asexual and sexual methods. It produces asexual spores called conidia, which spread through wind or insects, causing new infections. Under specific conditions, it forms sexual fruiting bodies called chasmothecia, which produce sexual spores called ascospores. These ascospores can survive tough conditions and infect plants in the following seasons. The ability to reproduce both ways helps powdery mildew survive, spread, and adapt as a plant disease."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Control",
+          "description": "•  Pruning and sanitation: Pruning helps reduce inoculum by removing infected plant parts, but it can be labor-intensive for larger operations.\n\n•\tOrchard maintenance: Regular maintenance, including opening the tree canopy, improves fungicide deposition and reduces humidity, hindering pathogen development.\n"
+        },
+        {
+          "subtitle": "Chemical Management",
+          "description": "•\tTimely fungicide applications effectively control powdery mildew.\n•\tElemental sulfur is commonly used for management.\n•\tInorganic potassium carbonates and kaolin-based particle film are used in organic production.\n•\tResistance management strategies include rotating fungicide modes of action.\n•\tAnilinopyrimidines, once commonly used, are now less favored.\n•\tSurfactant treatments show some reduction in infections but may delay bud break and flowering.\n•\tFungicide-surfactant mix applications are more effective with reduced phytotoxicity.\n"
+        },
+        {
+          "subtitle": "Biological Control",
+          "description": "•\tPlant oil extracts, like sunflower, olive, and canola oils, can control powdery mildew symptoms.\n\n•\tBiocontrol organisms (e.g., Ampelomyces mycoparasites, Bacillus species) show varying success.\n\n•\tResearch is ongoing to identify effective biocontrol agents and naturally derived antimicrobial compounds.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "Emmett's Pumpkin Fullmoon Maple",
+        "Jonathan Apple",
+        "nectarine",
+        "peach",
+        "Common Paw Paw",
+        "quince"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/26_p/og/38978012882_9cac2df61e_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/26_p/regular/38978012882_9cac2df61e_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/26_p/medium/38978012882_9cac2df61e_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/26_p/small/38978012882_9cac2df61e_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/26_p/thumbnail/38978012882_9cac2df61e_b.jpg"
+        },
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/og/9010271992_4f2c71e479_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/regular/9010271992_4f2c71e479_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/medium/9010271992_4f2c71e479_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/small/9010271992_4f2c71e479_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/26_podosphaera_leucotricha/thumbnail/9010271992_4f2c71e479_b.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "common_name": "Bacterial canker",
+      "scientific_name": "Pseudomonas syringae",
+      "other_name": [
+        "Bacterial blossom blast",
+        "Bacterial canker and blast",
+        "Bacterial leaf spot",
+        "Angular leaf spot",
+        "Leaf spot Angular",
+        "Citrus blast",
+        "Bacterial blight"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Bacterial canker (Pseudomonas syringae)?",
+          "description": "Pseudomonas syringae is a bacterial pathogen that causes economically important diseases in the Pacific Northwest. It infects a wide range of fruits, vegetables, and ornamental plants, including plums, cherries, apricots, peaches, and ornamental Prunus species. Common symptoms include flower blast, dead buds, necrotic leaf spots, fruit spots, shoot-tip dieback, stem cankers, and inhibited seed germination. Disease severity varies, with factors like wounds, plant dormancy, soil conditions, and dual infections increasing susceptibility. "
+        },
+        {
+          "subtitle": "How dose Bacterial canker (Pseudomonas syringae) occur?",
+          "description": "Pseudomonas syringae reproduces through binary fission, dividing into two identical daughter cells. It rapidly multiplies in favorable conditions of high humidity and moderate temperatures. The bacterium can survive in infected plant debris, weeds, and soil. Spread occurs through water splashes, wind, insects, and contaminated tools. It can also establish latent infections within plant tissues, aiding its long-term persistence and further spread."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices and Crop Rotation",
+          "description": "•\tImplement good sanitation measures by removing and destroying infected plant debris.\n\n•\tRotate susceptible plant species with non-host plants to disrupt the disease cycle.\n\n•\tMaintain proper plant nutrition and avoid excessive nitrogen fertilization.\n"
+        },
+        {
+          "subtitle": "Integrated Pest Management (IPM) and Resistant Varieties",
+          "description": "•\tImplement an IPM approach, combining various strategies to manage the disease effectively.\n\n•\tChoose and plant resistant or tolerant varieties to reduce susceptibility.\n\n•\tExplore the use of beneficial microorganisms or biocontrol agents to suppress bacterial growth.\n"
+        },
+        {
+          "subtitle": "Chemical Control",
+          "description": "Chemical Control:  Antibiotics such as streptomycin and oxytetracycline, as well as copper-based fungicides or bactericides like copper sulfate and copper hydroxide, can be used to treat Pseudomonas syringae infections. \n\nFollow label instructions and apply at the right time and concentration."
+        }
+      ],
+      "host": [
+        "almond",
+        "apple",
+        "Jonathan Apple",
+        "apricot",
+        "broccoli",
+        "cantaloupe",
+        "citrus",
+        "various fruits and nuts",
+        "various trees and shrubs"
+      ],
+      "images": [
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_p/og/Pseudomonas_syringae_a2_%283%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_p/regular/Pseudomonas_syringae_a2_%283%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_p/medium/Pseudomonas_syringae_a2_%283%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_p/small/Pseudomonas_syringae_a2_%283%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_p/thumbnail/Pseudomonas_syringae_a2_%283%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_p/og/Pseudomonas_syringae_a1_%282%29.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_p/regular/Pseudomonas_syringae_a1_%282%29.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_p/medium/Pseudomonas_syringae_a1_%282%29.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_p/small/Pseudomonas_syringae_a1_%282%29.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_p/thumbnail/Pseudomonas_syringae_a1_%282%29.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/og/Pseudomonas_syringae_a2_28429.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/regular/Pseudomonas_syringae_a2_28429.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/medium/Pseudomonas_syringae_a2_28429.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/small/Pseudomonas_syringae_a2_28429.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/thumbnail/Pseudomonas_syringae_a2_28429.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/og/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/regular/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/medium/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/small/2560px-Pseudomonas_syringae_a2_28329.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/9_pseudomonas_syringae/thumbnail/2560px-Pseudomonas_syringae_a2_28329.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "common_name": "Dollar spot",
+      "scientific_name": "Sclerotinia homoecarpa  Lanzia",
+      "other_name": null,
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Dollar Spot (Clarireedia jacksonii)?",
+          "description": "Dollar spot (Clarireedia jacksonii, formerly Sclerotinia homoeocarpa) is a worldwide fungal disease that affects highly managed turf. It forms small, round, bleached to straw-colored spots, ranging from 1-6 inches in diameter. In addition, it primarily infects cool-season grasses like bentgrass, fescue, and ryegrass. Moreover, symptoms include patches of blighted turf, visible white mycelium in dewy conditions, and hour-glass shaped lesions on leaves."
+        },
+        {
+          "subtitle": "How does Dollar Spot (Clarireedia jacksonii) occur?",
+          "description": "Dollar spot (Clarireedia jacksonii) reproduces through spore production and spread. The fungus survives in infected plants or debris, as well as stromata (masses of mycelium) on leaf surfaces. It becomes active in temperatures between 60-90 °F, favoring warm days, cool nights, and heavy dew. The pathogen is spread by mowers, golf carts, wind, and water. Inadequate nitrogen fertility and dry soils increase disease severity. "
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tWater deeply and infrequently, avoiding extended leaf wetness.\n•\tRemove dew and guttation fluids by mowing, rolling, or brushing early in the morning.\n•\tMaintain adequate to high nitrogen fertility with light, frequent applications.\n•\tPrune trees and shrubs to improve air circulation around the turf.\n•\tOverseed with newer cultivars that are less susceptible to dollar spot.\n•\tConsider lightweight rolling on golf greens to suppress the disease.\n•\tExplore organic fertilizers, composts, and biological control agents as potential control measures.\n"
+        },
+        {
+          "subtitle": "Applications of Fungicide ",
+          "description": "• There are Many fungicides available to cure Dollere spot such as  Benzimidazoles (e.g., thiophanate-methyl), demethylation inhibitors (e.g., propiconazole), dicarboximides (e.g., iprodione), carboxamides (e.g., boscalid), chlorothalonil, Emerald, Honor, Curalan, Eagle, and Torque.\n\n•\t Adhere to label instructions for proper application.\n\n•\tAvoid repeated use of fungicides from the same class or FRAC code to minimize resistance.\n\n•\tConsider tank mixing or alternating fungicides with different modes of action.\n\n"
+        }
+      ],
+      "host": [
+        "annual bluegrass",
+        "bermudagrass",
+        "fescues",
+        "ryegrasses",
+        "seashore paspalum",
+        "Cumberland reed grass",
+        "zoysiagrass"
+      ],
+      "images": [
+        {
+          "license": 9,
+          "license_name": "Public Domain Dedication (CC0)",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/og/15489837762_0b9ab08177_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/regular/15489837762_0b9ab08177_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/medium/15489837762_0b9ab08177_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/small/15489837762_0b9ab08177_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/19_sclerotinia_homoecarpa_ lanzia/thumbnail/15489837762_0b9ab08177_b.jpg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "common_name": "Papery bark (Sappy bark)",
+      "scientific_name": "Trametes versicolor",
+      "other_name": [
+        "Sappy bark (Papery bark)",
+        "Turkey tail"
+      ],
+      "family": null,
+      "description": [
+        {
+          "subtitle": "What is Sappy bark, Turkey tail (Trametes versicolor)?",
+          "description": "Trametes versicolor, also known as Coriolus versicolor and Polyporus versicolor, is a mushroom found worldwide. It has distinctive concentric rings and a papery texture, resembling a turkey tail. This mushroom prefers dead or decaying hardwood, especially beech and oak, and thrives in moist and temperate environments like forests and woodlands. It has immune-boosting and anti-cancer properties, but more research is needed to fully understand its effects and potential medical applications."
+        },
+        {
+          "subtitle": "How does Sappy bark, Turkey tail (Trametes versicolor) occur?",
+          "description": "The disease enters tree limbs and larger branches through pruning cuts. Infected bark and wood tissues decay, leading to a spongy and discolored appearance. The affected bark may peel away, revealing decayed tissue underneath. In humid conditions, the bark looks spongy, while in dry conditions, it appears papery. Dark sap may ooze from diseased areas, and spore-producing structures can form along the edges. Bark cankers can encircle branches or, if on the trunk, cause tree death."
+        }
+      ],
+      "solution": [
+        {
+          "subtitle": "Cultural Practices",
+          "description": "•\tKeep trees healthy and properly maintained, as healthy trees are less susceptible to fungal infections.\n\n•\tPromptly remove and destroy infected wood, including stumps, fallen branches, and dead trees. This helps prevent the spread of the fungus to other trees.\n\n•\tEnsure good air circulation around trees by spacing them properly and avoiding overcrowding. This helps reduce the favorable conditions for fungal growth.\n\n•\tMinimize tree wounds by preventing mechanical damage, such as from lawnmowers or construction equipment. Promptly treat any wounds that do occur to prevent fungal entry points.\n"
+        },
+        {
+          "subtitle": "Trearment",
+          "description": "•\tPractice proper pruning techniques to remove dead or diseased branches from trees. This helps minimize the risk of infection.\n\n•\tFungicides: In some cases, fungicides may be used as a preventive measure. Fungicides such as copper-based, triazole, and dicarboximide fungicides can be used to prevent and control Trametes versicolor.\n\n•\t Consult with a professional arborist or plant pathologist for guidance on appropriate fungicide applications.\n"
+        }
+      ],
+      "host": [
+        "apple",
+        "Strawberry Tree",
+        "cherry",
+        "nectarine",
+        "various trees and shrubs",
+        "walnut"
+      ],
+      "images": [
+        {
+          "license": 10,
+          "license_name": "Public Domain Mark",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/25_t/og/41856600312_fdbd3236f8_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/25_t/regular/41856600312_fdbd3236f8_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/25_t/medium/41856600312_fdbd3236f8_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/25_t/small/41856600312_fdbd3236f8_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/25_t/thumbnail/41856600312_fdbd3236f8_b.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/25_t/og/Trametes_versicolor_-_Coriolus_versicolor_-_Polyporus_versicolor_-_Schmetterlingstramete_-_Bunte_Tramete_-_Schmetterlingsporling_-_01.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/25_t/regular/Trametes_versicolor_-_Coriolus_versicolor_-_Polyporus_versicolor_-_Schmetterlingstramete_-_Bunte_Tramete_-_Schmetterlingsporling_-_01.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/25_t/medium/Trametes_versicolor_-_Coriolus_versicolor_-_Polyporus_versicolor_-_Schmetterlingstramete_-_Bunte_Tramete_-_Schmetterlingsporling_-_01.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/25_t/small/Trametes_versicolor_-_Coriolus_versicolor_-_Polyporus_versicolor_-_Schmetterlingstramete_-_Bunte_Tramete_-_Schmetterlingsporling_-_01.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/25_t/thumbnail/Trametes_versicolor_-_Coriolus_versicolor_-_Polyporus_versicolor_-_Schmetterlingstramete_-_Bunte_Tramete_-_Schmetterlingsporling_-_01.jpg"
+        },
+        {
+          "license": 10,
+          "license_name": "Public Domain Mark",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/25_t/og/51412002508_ffa1fb6933_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/25_t/regular/51412002508_ffa1fb6933_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/25_t/medium/51412002508_ffa1fb6933_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/25_t/small/51412002508_ffa1fb6933_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/25_t/thumbnail/51412002508_ffa1fb6933_b.jpg"
+        },
+        {
+          "license": 45,
+          "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "original_url": "https://perenual.com/storage/species_disease/25_t/og/Schmetterlingstramete_Trametes_versicolor_004.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/25_t/regular/Schmetterlingstramete_Trametes_versicolor_004.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/25_t/medium/Schmetterlingstramete_Trametes_versicolor_004.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/25_t/small/Schmetterlingstramete_Trametes_versicolor_004.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/25_t/thumbnail/Schmetterlingstramete_Trametes_versicolor_004.jpg"
+        },
+        {
+          "license": 10,
+          "license_name": "Public Domain Mark",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "original_url": "https://perenual.com/storage/species_disease/25_trametes_versicolor/og/41856600312_fdbd3236f8_b.jpg",
+          "regular_url": "https://perenual.com/storage/species_disease/25_trametes_versicolor/regular/41856600312_fdbd3236f8_b.jpg",
+          "medium_url": "https://perenual.com/storage/species_disease/25_trametes_versicolor/medium/41856600312_fdbd3236f8_b.jpg",
+          "small_url": "https://perenual.com/storage/species_disease/25_trametes_versicolor/small/41856600312_fdbd3236f8_b.jpg",
+          "thumbnail": "https://perenual.com/storage/species_disease/25_trametes_versicolor/thumbnail/41856600312_fdbd3236f8_b.jpg"
+        }
+      ]
+    },
+        {
+            "id": 31,
+            "common_name": "Botrytis rot (gray mold)",
+            "scientific_name": "Botrytis  cinerea",
+            "other_name": null,
+            "family": null,
+            "description": [
+                {
+                    "subtitle": "What is Botrytis rot (Botrytis cinerea)?",
+                    "description": "Botrytis cinerea is a fungal pathogen that causes Botrytis rot or gray mold. It is widely distributed and affects a variety of plants, including fruits, vegetables, flowers, and ornamental plants. Symptoms include the formation of gray, velvety mats of sporulating tissues on infected plant parts. It can lead to the death of twigs, increased fruit drop, and injuries to developing fruits. Infected fruits may exhibit ridges and decay during postharvest storage."
+                },
+                {
+                    "subtitle": "How does  Botrytis rot (Botrytis cinerea) occur?",
+                    "description": "Botrytis blight survives winter on plants and in the soil, including sclerotia. Spores develop and are dispersed by wind or water onto blossoms or young leaves in favorable conditions. Germination happens with cool temperatures and high humidity. It enters plants through wounds but rarely penetrates healthy tissue directly. Decaying plant material and dense plant populations contribute to its spread. The fungus feeds on plants, causing gray mold and decay known as Botrytis rot."
+                }
+            ],
+            "solution": [
+                {
+                    "subtitle": "Watering Techniques and Plant varieties",
+                    "description": "•\tChoose plant varieties with resistance or tolerance to Botrytis cinerea if available.\n\n•\tAvoid overwatering plants, especially during periods of high humidity. Use drip irrigation or water at the base of plants to keep foliage dry and minimize leaf wetness, which creates favorable conditions for fungal growth.\n"
+                },
+                {
+                    "subtitle": "Monitoring  and Good Sanitation",
+                    "description": " Regularly inspect plants for infection and take prompt action to prevent spread. Clear away dead or decaying plant debris from the soil surface to prevent the buildup of fungal spores. "
+                },
+                {
+                    "subtitle": "Fertilization and Plant Health",
+                    "description": "Maintain optimal plant nutrition and avoid excessive nitrogen fertilization, as high nitrogen levels can make plants more susceptible to Botrytis cinerea. Healthy plants are better equipped to resist and recover from fungal infections."
+                },
+                {
+                    "subtitle": "Sunlight exposure",
+                    "description": "Ensure plants receive sufficient sunlight and avoid shading to create an environment that is less favorable for Botrytis cinerea development"
+                },
+                {
+                    "subtitle": "Chemical control",
+                    "description": "•\tFungicides commonly used for controlling Botrytis cinerea include cyprodinil/fludioxonil (e.g., Switch), pyraclostrobin/fluxapyroxad (e.g., Merivon), pyraclostrobin/boscalid (e.g., Pristine), penthiopyrad (e.g., Fontelis), isofetamid (e.g., Kenja), fenhexamid (e.g., Elevate), iprodione (e.g., Rovral), and thiophanate-methyl (e.g., Topsin M). \n\n•\tThese fungicides should be applied according to label instructions, and it is important to rotate different modes of action to reduce the risk of resistance.\n"
+                }
+            ],
+            "host": [
+                "artichoke",
+                "lettuce",
+                "Marina Strawberry Tree",
+                "strawberry"
+            ],
+            "images": [
+                {
+                    "license": 9,
+                    "license_name": "Public Domain Dedication (CC0)",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_disease/31_b/og/33938535226_6eb3e7a8a8_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_disease/31_b/regular/33938535226_6eb3e7a8a8_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_disease/31_b/medium/33938535226_6eb3e7a8a8_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_disease/31_b/small/33938535226_6eb3e7a8a8_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_disease/31_b/thumbnail/33938535226_6eb3e7a8a8_b.jpg"
+                },
+                {
+                    "license": 45,
+                    "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+                    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+                    "original_url": "https://perenual.com/storage/species_disease/31_b/og/Botrytis_cinerea_rose.jpg",
+                    "regular_url": "https://perenual.com/storage/species_disease/31_b/regular/Botrytis_cinerea_rose.jpg",
+                    "medium_url": "https://perenual.com/storage/species_disease/31_b/medium/Botrytis_cinerea_rose.jpg",
+                    "small_url": "https://perenual.com/storage/species_disease/31_b/small/Botrytis_cinerea_rose.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_disease/31_b/thumbnail/Botrytis_cinerea_rose.jpg"
+                },
+                {
+                    "license": 9,
+                    "license_name": "Public Domain Dedication (CC0)",
+                    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                    "original_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/og/33938535226_6eb3e7a8a8_b.jpg",
+                    "regular_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/regular/33938535226_6eb3e7a8a8_b.jpg",
+                    "medium_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/medium/33938535226_6eb3e7a8a8_b.jpg",
+                    "small_url": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/small/33938535226_6eb3e7a8a8_b.jpg",
+                    "thumbnail": "https://perenual.com/storage/species_disease/31_botrytis__cinerea/thumbnail/33938535226_6eb3e7a8a8_b.jpg"
+                }
+            ]
+        }
+    ]
+ }
