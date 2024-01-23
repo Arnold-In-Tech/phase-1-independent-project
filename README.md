@@ -1,4 +1,4 @@
-# phase-1-independent-project
+# Phase-1-independent-project
 
 BugScout is a pocket friendly tool that helps farmers identify disease symptoms early in the growing season.
 The appllication allows users to compare healthy and diseased plants, as well as obtain more information regarding the disease and its treatment regimen.
@@ -9,19 +9,19 @@ The appllication allows users to compare healthy and diseased plants, as well as
 ![Static Badge](https://img.shields.io/badge/CSS-CSS_3-blue?style=for-the-badge&logo=css3)
 
 # Demo of the webpage
-## Landing page
+### Landing page
 
-## News
+### News
 
-## Documentation
+### Documentation
 
-## Who we are
+### Who we are
 
-## Sign Up
+### Sign Up
 
-## Login
+### Login
 
-## Rate our App
+### Rate our App
 
 # Project Requirements/Deliverables
 Single Page Application (SPA):
