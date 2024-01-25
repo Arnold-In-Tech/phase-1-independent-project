@@ -10,6 +10,7 @@ The appllication allows users to compare healthy and diseased plants, as well as
 
 # Demo of the webpage
 ### Landing page
+![Landing-page](./images/landing.png?raw=true)
 
 ### News
 
