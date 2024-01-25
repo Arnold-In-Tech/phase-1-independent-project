@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    overflow-x: hidden ;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    padding-left: 7rem;
+    padding-right: 2rem;
+    background-color: springgreen;
+    box-shadow:0px 0px 3px;;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+#linktoapp a{
+    font-size: 2.6rem;
+    font-weight: bold;
+    color: darkviolet;
+}
+
+#linktoapp li a:hover{
+    color: tomato;
+}
+
+#firstmenu li{
+    padding-left: 2rem;
+    padding-bottom: 0.5rem;
+    transition: transform .4s; /* Animation */
+    font-size: large;
+    font-weight:500;
+} 
+
+#firstmenu li :hover{
+    color: white;
+    background-color: #000;
+    transform: scale(1.5); /*150% zoom*/
+    padding: 0px 6px 0px 6px;
+}
+
+.active {
+    text-decoration: 6px underline #000;
+    text-underline-offset: 6px;
+}
+
+#secondmenu{
+    display: flex;
+    align-items: center;
+    font-size: large;
+
+}
+
+#secondmenu li{
+    font-size: large;
+}
+
+#secondmenu :first-child{
+    padding-right: 10px;  /*offsets from the rigt margin*/
+}
+
+#secondmenu :hover{
+    color: white;
+}
+
+#loginlink{
+    color: white;
+    background-color:salmon;
+    padding: 4px;
+    border-radius: 20px; /*curves the padding borders*/
+}
+
+#signuplink{
+    background-color:cornflowerblue;
+    padding: 4px; 
+    border-radius: 20px;   
+}
+
+/* Landing page styles */
+
+#intro {
+    background-image: url("./images/introimg1.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    
+}
+
+#intro > :nth-child(1){
+    padding-left: 7rem;
+    height: 70%;
+    width: 60%;
+    padding-top: 4rem;
+}
+
+#intro div h1{
+    color: darkviolet;
+    padding-bottom: 1rem;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#intro div p{
+    padding-bottom: 2rem;
+    font-size: 24px;
+}
+
+
+#tryforfree{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 800;
+    background-color:cornflowerblue;
+    color: #fff;
+    padding: 20px;
+}
+
+#intro a:hover{
+    color: red;
+}
+
+#subscribe{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 800;
+    background-color: salmon;
+    color: #fff;
+    padding: 20px;
+}
+
