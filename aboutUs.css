@@ -1,0 +1,69 @@
+body{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    overflow-x: hidden ;  /*clip the content and no scrolling mechanism is provided*/
+}
+
+#about-title {
+    padding: 20px 50px 10px 50px;
+    background-color: #474e5d;
+    text-align: center;
+    color: white;
+}
+
+
+/*our team*/
+
+#ourteam > h2{
+    text-align: center;
+    color: black;
+}
+
+#founders-cards{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: 400px;
+    column-gap: 50px;
+    margin: 0px 80px 10px 80px;
+}
+
+
+#founder-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 3px;
+}
+
+#founder-card img{
+    height: 50%;
+    width: 100%;
+}
+
+#container h2, p{
+    padding-left:20px;
+    line-height: 18px;   /* within paragraph */
+    margin:10px; /* between paragraph */
+}
+
+#container :nth-child(2) {
+    color: grey;
+}
+
+#founder-card button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+#founder-card button:hover {
+    background-color: #555;
+}
