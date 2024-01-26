@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    overflow-x: hidden ;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+/* form column */
+
+form{
+    border:2px solid black;
+    margin: 0.5rem;
+    border-radius: 20px;
+    margin: 4rem;  
+}
+
+input[type=text],
+input[type=password]{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, 
+input[type=password]:focus {
+    background-color: yellow;
+    outline: none;
+}
+
+hr {
+    border: 2px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.8;
+    font-size: 16px;
+    border-radius: 20px;
+}
+  
+button:hover {
+    opacity:1;
+}
+
+.cancelbtn {
+    background-color: red;
+}
+
+/* Float "cancel and signup" buttons and add an equal width */
+.cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Add extra spacing aroung elements */
+.container {
+    padding: 18px;
+}
+  
+#terms{
+    color:dodgerblue;
+
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}
+
+
+/* company logo */
+
+#companycolumn{
+    background-image: url("./images/signupimg.jpg");
+    background-size: cover;
+}
+
+#companycolumn p{
+    font-size: 3.2rem;
+    font-weight: bold;
+    color: white;
+    margin-top: 16rem;
+    margin-left: 12rem;
+}
