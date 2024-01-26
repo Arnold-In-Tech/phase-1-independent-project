@@ -20,9 +20,8 @@ The appllication allows users to compare healthy and diseased plants, as well as
 ![Documentation-page](./images/documentation.png?raw=true)
 ### About Us
 ![About-us-page](./images/aboutUs.png?raw=true)
-
 ### Sign Up
-
+![SignUp-page](./images/signup.png?raw=true)
 ### Login
 
 ### Rate our App
