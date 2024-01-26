@@ -1,0 +1,44 @@
+#main-body {
+    display: grid;
+    grid-template-columns: minmax(300px, auto)1fr;
+    grid-template-areas: "navbar mainDoc";
+    grid-gap: 20px;
+}
+
+#navbar{
+    grid-area: navbar;
+    position: fixed;
+    z-index: 1;    /*bring to the front*/
+}
+
+#main-doc {
+    grid-area: mainDoc;
+    width: 75%;
+    position: absolute;
+    right: 0;
+}
+
+#navbar ul{
+    list-style-type: none;
+    background-color: gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+#navbar a {
+    display: block;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 10px 0;
+    text-decoration: none;
+    color: blue;
+}
+
+header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#main-doc header{
+    color: blue;
+}
