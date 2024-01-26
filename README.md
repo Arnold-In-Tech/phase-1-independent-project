@@ -12,10 +12,12 @@ The appllication allows users to compare healthy and diseased plants, as well as
 ### Landing page
 ![Landing-page](./images/landing.png?raw=true)
 
+### Home
+
 ### News
 
 ### Documentation
-
+![Documentation-page](./images/documentation.png?raw=true)
 ### About Us
 ![About-us-page](./images/aboutUs.png?raw=true)
 
