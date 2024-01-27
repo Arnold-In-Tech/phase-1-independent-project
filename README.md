@@ -14,8 +14,6 @@ The appllication allows users to compare healthy and diseased plants, as well as
 
 ### Home
 
-### News
-
 ### Documentation
 ![Documentation-page](./images/documentation.png?raw=true)
 ### About Us
@@ -23,9 +21,7 @@ The appllication allows users to compare healthy and diseased plants, as well as
 ### Sign Up
 ![SignUp-page](./images/signup.png?raw=true)
 ### Login
-
-### Rate our App
-
+![Login-page](./images/login.png?raw=true)
 # Project Requirements/Deliverables
 Single Page Application (SPA):
 
