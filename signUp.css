@@ -107,6 +107,7 @@ button:hover {
     font-size: 3.2rem;
     font-weight: bold;
     color: white;
-    margin-top: 16rem;
-    margin-left: 12rem;
+    position: relative;
+    text-align: center;
+    margin: 16rem 0 12rem 0;
 }
